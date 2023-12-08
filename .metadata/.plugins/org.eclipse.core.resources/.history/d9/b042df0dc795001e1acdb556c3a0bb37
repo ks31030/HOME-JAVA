@@ -1,0 +1,14 @@
+package exam01;
+
+private class A{
+	
+}
+
+public class HelloJava {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

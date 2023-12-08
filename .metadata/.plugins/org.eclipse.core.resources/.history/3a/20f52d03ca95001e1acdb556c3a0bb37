@@ -1,0 +1,14 @@
+package exam01;
+
+
+public class HelloJava {	
+	//파스칼 표기법 사용 : 대문자로 시작, 이후 음절의 시작을 대문자. ex) HelloJavaWorld
+	public static void main(String[] args) {
+		/*
+		 주석
+		 여러 줄로 사용할 수 있는
+		 범위 주석.
+		 */
+	}
+
+}
